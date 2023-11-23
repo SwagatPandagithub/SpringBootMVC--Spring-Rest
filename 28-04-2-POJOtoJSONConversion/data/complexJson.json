@@ -1,0 +1,15 @@
+{
+	"id":7,
+	"firstName":"Mahendra Singh",
+	"lastName":"Dhoni",
+	"active":true,
+	"address":{
+				"street":"25/1",
+				"city":"Ranchi",
+				"state":"Jharkhand",
+				"pin":"760001",
+				"country":"India"
+	},
+	"languages":["java","Hindi","english","Bhojpuri"],
+	"company":"ineuron"
+}
